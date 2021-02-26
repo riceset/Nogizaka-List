@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BetterSafariView",
+        "repositoryURL": "https://github.com/stleamist/BetterSafariView",
+        "state": {
+          "branch": "main",
+          "revision": "7046fd1122bc91c2fd8d65aec4a5154f18dbf201",
+          "version": null
+        }
+      },
+      {
+        "package": "ModalView",
+        "repositoryURL": "https://github.com/diniska/modal-view",
+        "state": {
+          "branch": "master",
+          "revision": "e9063b249148134b6ab24832ac8101835638a5af",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
